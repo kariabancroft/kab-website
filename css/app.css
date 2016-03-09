@@ -1,0 +1,56 @@
+body {
+  background:linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),url('../images/Lightbulb-2.jpeg') no-repeat left center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 7%;
+  font-family: 'Goudy Bookletter 1911', serif;
+}
+
+h1 {
+  color: #bcd5d1;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+h2 {
+  color: white;
+}
+
+hr.top {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+hr.bottom {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.details {
+  color: white;
+  font-size: 1.3em;
+}
+
+.icons {
+  display: inline-block;
+}
+
+.social-icon {
+  padding-top: 7px;
+  padding-right: 10px;
+  padding-botton: 10px;
+}
+
+a {
+  color: #ba9077;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5e0231;
+  text-decoration: none;
+}
